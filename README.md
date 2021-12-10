@@ -15,6 +15,6 @@ Zu den Leitfragen geht es hier:
 ## 07 // Programmierübung: Erste Machine Learning Schritte
 
 Für TeilnehmerInnen, die sich gerne mit Natural Language Processing auseinandersetzen würden, empfehle ich:
-1. Ein Kaggle Tutorial zu klassischem NLP und Word Embeddings (Word2Vec), in dem das Sentiment von Filmbewertungen (positiv oder negativ) vorhergesagt werden soll:\ https://www.kaggle.com/c/word2vec-nlp-tutorial/overview/part-4-comparing-deep-and-non-deep-learning-methods
+1. Ein Kaggle Tutorial zu klassischem NLP und Word Embeddings (Word2Vec), in dem das Sentiment von Filmbewertungen (positiv oder negativ) vorhergesagt werden soll:<br /> https://www.kaggle.com/c/word2vec-nlp-tutorial/overview/part-4-comparing-deep-and-non-deep-learning-methods
 2. Den Hugging Face Kurs zu Transformern (state-of-the-art deep learning NLP Modelle) und wie man Transformer mit der Hugging Face library verwedent: https://huggingface.co/course/chapter1/1
 
