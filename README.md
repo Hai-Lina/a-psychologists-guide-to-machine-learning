@@ -1,6 +1,10 @@
 # a-psychologists-guide-to-machine-learning
 Introductory machine learning workshop for the psychological science.
 
+## 00 // Machine Learning ist für mich ...
+
+Eure Meinung ist gefragt unter: fbr.io/VHDRI
+
 ## 02 // ML & Psychologie in der Literatur
 
 Bitte findet euch in Zweiergruppen zusammen und erarbeitet gemeinsam einen wissenschaftlichen Artikel, in dem ForscherInnen erfolgreich Machine Learning in der Psychologie eingesetzt haben.
@@ -27,3 +31,5 @@ Für TeilnehmerInnen, die sich gerne mit Natural Language Processing auseinander
 1. Ein Kaggle Tutorial zu klassischem NLP und Word Embeddings (Word2Vec), in dem das Sentiment von Filmbewertungen (positiv oder negativ) vorhergesagt werden soll:<br />https://www.kaggle.com/c/word2vec-nlp-tutorial/overview/part-4-comparing-deep-and-non-deep-learning-methods
 2. Den Hugging Face Kurs zu Transformern (state-of-the-art deep learning NLP Modelle) und wie man Transformer mit der Hugging Face library verwedent:<br />https://huggingface.co/course/chapter1/1
 
+**Um Feedback zu meiner Arbeit wäre ich dankbar:**
+fbr.io/VYWYF
