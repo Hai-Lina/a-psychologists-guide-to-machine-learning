@@ -1,6 +1,15 @@
 # a-psychologists-guide-to-machine-learning
 Introductory machine learning workshop for the psychological science.
 
+## 02 // ML & Psychologie in der Literatur
+
+Bitte findet euch in Zweiergruppen zusammen und erarbeitet gemeinsam einen wissenschaftlichen Artikel, in dem ForscherInnen erfolgreich Machine Learning in der Psychologie eingesetzt haben.
+
+EIn Template zum Zusammenfassen eurer Ergebnisse findet ihr hier:
+https://docs.google.com/document/d/1k7p3FHDC6XDD-xjsKFGTx2waYCFXupgE84FhfVymlu8/edit?usp=sharing
+
+ACHTUNG: Das Template vor dem Bearbeiten bitte erst kopieren.
+
 ## 04 // Machine Learning Algorithmen
 
 Bitte findet euch in Gruppen von zwei bis drei Personen zusammen und versucht, den euch zugeteilten Machine Learning Algorithmus zu erarbeiten, indem ihr online recherchiert und ihn für die anderen in einer kurzen Präsentation aufbereitet.
