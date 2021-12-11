@@ -51,9 +51,12 @@ TeilnehmerInnen, die sich gerne mit Natural Language Processing auseinandersetze
 
 ## Interesstante Quellen
 
-- Eine Informatikerin erklärt Machine Learning in 5 Schwierigkeitsstufen (WIRED): https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
-- Eine begabter Mathematiker & Illustrator erklärt neuronale Netze anschaulich (3Blue1Brown): https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
-- Ein Podcast mit einem Interview mit GPT-3 (Clearer Thinking): https://clearerthinkingpodcast.com/episode/073
+- Eine Informatikerin erklärt Machine Learning in 5 Schwierigkeitsstufen (WIRED):
+<br />https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+- Eine begabter Mathematiker & Illustrator erklärt neuronale Netze anschaulich (3Blue1Brown):
+<br />https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+- Ein Podcast mit einem Interview mit GPT-3 (Clearer Thinking):
+<br />https://clearerthinkingpodcast.com/episode/073
 
 **Um Feedback zu meiner Arbeit wäre ich dankbar:**
 <br />https://fbr.io/VYWYF
