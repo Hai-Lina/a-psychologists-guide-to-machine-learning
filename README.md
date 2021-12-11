@@ -49,5 +49,11 @@ TeilnehmerInnen, die sich gerne mit Natural Language Processing auseinandersetze
 1. Ein Kaggle Tutorial zu klassischem NLP und Word Embeddings (Word2Vec), in dem das Sentiment von Filmbewertungen (positiv oder negativ) vorhergesagt werden soll:<br />https://www.kaggle.com/c/word2vec-nlp-tutorial/overview/part-4-comparing-deep-and-non-deep-learning-methods
 2. Den Hugging Face Kurs zu Transformern (state-of-the-art deep learning NLP Modelle) und wie man Transformer mit der Hugging Face library verwedent:<br />https://huggingface.co/course/chapter1/1
 
+## Interesstante Quellen
+
+- Eine Informatikerin erklärt Machine Learning in 5 Schwierigkeitsstufen (WIRED): https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+- Eine begabter Mathematiker & Illustrator erklärt neuronale Netze anschaulich (3Blue1Brown): https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+- Ein Podcast mit einem Interview mit GPT-3 (Clearer Thinking): https://clearerthinkingpodcast.com/episode/073
+
 **Um Feedback zu meiner Arbeit wäre ich dankbar:**
 <br />https://fbr.io/VYWYF
