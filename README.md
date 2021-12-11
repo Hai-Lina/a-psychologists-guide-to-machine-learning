@@ -3,7 +3,7 @@ Introductory machine learning workshop for the psychological science.
 
 ## 00 // Machine Learning ist für mich ...
 
-Eure Meinung ist gefragt unter: [](fbr.io/VHDRI)
+Eure Meinung ist gefragt unter: [fbr.io/VHDRI](fbr.io/VHDRI)
 
 ## 02 // ML & Psychologie in der Literatur
 
