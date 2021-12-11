@@ -5,8 +5,8 @@ Introductory machine learning workshop for the psychological science.
 
 Bitte findet euch in Zweiergruppen zusammen und erarbeitet gemeinsam einen wissenschaftlichen Artikel, in dem ForscherInnen erfolgreich Machine Learning in der Psychologie eingesetzt haben.
 
-EIn Template zum Zusammenfassen eurer Ergebnisse findet ihr hier:
-https://docs.google.com/document/d/1k7p3FHDC6XDD-xjsKFGTx2waYCFXupgE84FhfVymlu8/edit?usp=sharing
+Ein Template zum Zusammenfassen eurer Ergebnisse findet ihr hier:
+<br />https://docs.google.com/document/d/1k7p3FHDC6XDD-xjsKFGTx2waYCFXupgE84FhfVymlu8/edit?usp=sharing
 
 ACHTUNG: Das Template vor dem Bearbeiten bitte erst kopieren.
 
