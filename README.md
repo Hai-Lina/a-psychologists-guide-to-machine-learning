@@ -5,6 +5,10 @@ Introductory machine learning workshop for the psychological science.
 
 Eure Meinung ist gefragt unter: https://fbr.io/VHDRI
 
+## 01 // Machine Learning - eine Einführung
+
+Vortrag: Was ist Machine Learning überhaupt?
+
 ## 02 // ML & Psychologie in der Literatur
 
 Bitte findet euch in Zweiergruppen zusammen und erarbeitet gemeinsam einen wissenschaftlichen Artikel, in dem ForscherInnen erfolgreich Machine Learning in der Psychologie eingesetzt haben.
@@ -13,6 +17,10 @@ Ein Template zum Zusammenfassen eurer Ergebnisse findet ihr hier:
 <br />https://docs.google.com/document/d/1k7p3FHDC6XDD-xjsKFGTx2waYCFXupgE84FhfVymlu8/edit?usp=sharing
 
 ACHTUNG: Das Template vor dem Bearbeiten bitte erst kopieren.
+
+## 03 // Neural Networks
+
+Vortrag: Neural Networks als Kernkonzept maschinellen Lernens
 
 ## 04 // Machine Learning Algorithmen
 
@@ -25,6 +33,14 @@ Zu den Leitfragen geht es hier:
 4. k-means: https://docs.google.com/document/d/1VhSOFEv4F07oyxPxxECpPX0-V-6pEJRDAhD2YTf0ZR8/edit?usp=sharing
 5. PCA: https://docs.google.com/document/d/1Ts9p6lHUJW4WWTqAQ6cdfwGYA0JpiOOGA1frHNZ1mi4/edit?usp=sharing
 
+## 05 // Die Data Science Pipeline
+
+Vortrag: Der prototypische Ablauf eines Machine Learning Projekts mit Programmierbeispiel
+
+## 06 // Natural Language Processing
+
+Vortarg: Textdaten automatisiert verarbeiten
+
 ## 07 // Programmierübung: Erste Machine Learning Schritte
 
 Für TeilnehmerInnen, die sich gerne mit Natural Language Processing auseinandersetzen würden, empfehle ich:
@@ -32,4 +48,4 @@ Für TeilnehmerInnen, die sich gerne mit Natural Language Processing auseinander
 2. Den Hugging Face Kurs zu Transformern (state-of-the-art deep learning NLP Modelle) und wie man Transformer mit der Hugging Face library verwedent:<br />https://huggingface.co/course/chapter1/1
 
 **Um Feedback zu meiner Arbeit wäre ich dankbar:**
-fbr.io/VYWYF
+<br />https://fbr.io/VYWYF
