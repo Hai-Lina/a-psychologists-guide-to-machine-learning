@@ -58,5 +58,8 @@ TeilnehmerInnen, die sich gerne mit Natural Language Processing auseinandersetze
 - Ein Podcast mit einem Interview mit GPT-3 (Clearer Thinking):
 <br />https://clearerthinkingpodcast.com/episode/073
 
+## Licensing
+This work is placed under a Creative Commons Attribution 4.0 International (CC BY-NC 4.0) licence. This license allows you to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator.
+
 **Um Feedback zu meiner Arbeit wäre ich dankbar:**
 <br />https://fbr.io/VYWYF
