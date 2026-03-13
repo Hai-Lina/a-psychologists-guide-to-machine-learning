@@ -18,9 +18,9 @@ This Python introduction is part of the [Microdegree AI & Society](https://www.u
 
 Covering basic machine learning concepts and algorithms:
 - [Talk: A gentle introduction to machine learning](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/ML-intro.pdf)
-- [Exercise: Learning from others](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/literature-review-ex-intro.pdf) [paper review]
+- [Exercise: Learning from others](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/literature-review-ex-intro.pdf) [paper review; further materials [here](https://cloud.uni-graz.at/s/QKooHFao23BAXTw)]
 - [Talk: Neural networks I - The basics](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/neural-networks-basics.pdf)
-- [Exercise: Basics machine learning algorithms](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/ML-algorithms-ex-intro.pdf) [guided, self-directed learning]
+- [Exercise: Basics machine learning algorithms](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/ML-algorithms-ex-intro.pdf) [guided, self-directed learning; further materials [here](https://cloud.uni-graz.at/s/oGytpD933nSSx3C)]
 - [Talk: A few examples from my own research](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/Alinas-research.pdf)
 - [Talk: The data science pipeline](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/data-science-pipeline.pdf)
 - [Exercise: Machine learning evaluation criteria](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/handouts/eval-criteria-exercise.pdf) [calculation exercise]
@@ -29,10 +29,10 @@ Covering basic machine learning concepts and algorithms:
 ## 3. Coding practicals
 
 Covering machine learning [exercises suitable for different levels](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/programming-ex-intro.pdf):
-- Beginner: A led machine learning coding tutorial (Survival on the titanic)
-- Intermediate: A Kaggle playground competition with mental health data
-- Intermediate: Huggingsface's LLM course
-- Advanced: A tutorial on Computational Social Mixed Methods pipelines (Herderich et al., 2026)
+- Beginner: [A led machine learning coding tutorial (Survival on the titanic)](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/tree/zurich-2026-en/programming-ex)
+- Intermediate: [A Kaggle playground competition with mental health data](https://www.kaggle.com/competitions/playground-series-s4e11/overview)
+- Intermediate: [Huggingsface's LLM course](https://huggingface.co/learn/llm-course/chapter1/1)
+- Advanced: [A tutorial on Computational Social Mixed Methods pipelines (Herderich et al., 2026)](https://github.com/Hai-Lina/computational-social-mixed-methods-pipelines)
 
 ## Licensing
 This work is placed under a Creative Commons Attribution 4.0 International (CC BY-NC 4.0) licence. This license allows you to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator.
