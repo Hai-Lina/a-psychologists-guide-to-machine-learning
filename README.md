@@ -32,7 +32,7 @@ Covering machine learning [exercises suitable for different levels](https://gith
 - Beginner: [A led machine learning coding tutorial (Survival on the titanic)](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/tree/zurich-2026-en/programming-ex)
 - Intermediate: [A Kaggle playground competition with mental health data](https://www.kaggle.com/competitions/playground-series-s4e11/overview)
 - Intermediate: [Huggingsface's LLM course](https://huggingface.co/learn/llm-course/chapter1/1)
-- Advanced: [A tutorial on Computational Social Mixed Methods pipelines (Herderich et al., 2026)](https://github.com/Hai-Lina/computational-social-mixed-methods-pipelines)
+- Advanced: [A tutorial on Computational Social Mixed Methods pipelines (Herderich et al., 2026)](https://github.com/Hai-Lina/computational-social-mixed-methods-pipelines) [see corresponding paper [here](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/CSMM-manuscript.pdf)]
 
 ## Licensing
 This work is placed under a Creative Commons Attribution 4.0 International (CC BY-NC 4.0) licence. This license allows you to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator.
