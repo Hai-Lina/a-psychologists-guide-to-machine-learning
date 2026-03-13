@@ -4,31 +4,31 @@ This is an introductory machine learning workshop for the psychological science 
 ## 1. A gentle introduction to Python
 
 Covering the Python basics:
-- Introduction to Jupyter Notebooks
-- Python basics A: Data types, variables, operators, loops, lists
-- Python basics A exercise: Operators, loops, lists
-- Python basics B: Conditions, functions, modules
-- Python basics B exercise: Conditions, functions
-- Python basics C: Handling data, visualizing data
-- Python basics C exercise: Handling data, visualizing data
+- [Introduction to Jupyter Notebooks](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/python-intro/01_jupyter-intro.ipynb)
+- [Python basics A](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/python-intro/02_python-basics-A.ipynb): Data types, variables, operators, loops, lists
+- [Python basics A exercise](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/python-intro/03_python-exercise-A.ipynb): Operators, loops, lists
+- [Python basics B](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/python-intro/04_python-basics-B.ipynb): Conditions, functions, modules
+- [Python basics B exercise](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/python-intro/05_python-exercise-B.ipynb): Conditions, functions
+- [Python basics C](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/python-intro/06_python-basics-C.ipynb): Handling data, visualizing data
+- [Python basics C exercise](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/python-intro/07_python-exercise-C.ipynb): Handling data, visualizing data
 
-This Python introduction is part of the Microdegree AI & Society at University of Graz. All materials were initially created by Jana Lasser.
+This Python introduction is part of the Microdegree AI & Society at University of Graz. All materials were initially created by [Jana Lasser](https://github.com/IDeaLab-uni-graz/MD-AI-and-society_technical-aspects).
 
 ## 2. A gentle introduction to machine learning
 
 Covering basic machine learning concepts and algorithms:
-- Talk: A gentle introduction to machine learning
-- Exercise: Learning from others [paper review]
-- Talk: Neural networks I - The basics
-- Exercise: Basics machine learning algorithms [guided, self-directed learning]
-- Talk: A few examples from my own research
-- Talk: The data science pipeline
-- Exercise: Machine learning evaluation criteria [calculation exercise]
-- Talk: Neural networks II - A word on LLMs
+- [Talk: A gentle introduction to machine learning](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/ML-intro.pdf)
+- [Exercise: Learning from others](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/literature-review-ex-intro.pdf) [paper review]
+- [Talk: Neural networks I - The basics](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/neural-networks-basics.pdf)
+- [Exercise: Basics machine learning algorithms](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/ML-algorithms-ex-intro.pdf) [guided, self-directed learning]
+- [Talk: A few examples from my own research](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/Alinas-research.pdf)
+- [Talk: The data science pipeline](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/data-science-pipeline.pdf)
+- [Exercise: Machine learning evaluation criteria](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/handouts/eval-criteria-exercise.pdf) [calculation exercise]
+- [Talk: Neural networks II - A word on LLMs](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/LLMs.pdf)
 
 ## 3. Coding practicals
 
-Covering machine learning exercises suitable for different levels:
+Covering machine learning [exercises suitable for different levels](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/programming-ex-intro.pdf):
 - Beginner: A led machine learning coding tutorial (Survival on the titanic)
 - Intermediate: A Kaggle playground competition with mental health data
 - Intermediate: Huggingsface's LLM course
