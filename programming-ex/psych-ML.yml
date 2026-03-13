@@ -1,0 +1,11 @@
+name: psych-ML
+channels:
+  - defaults
+dependencies:
+  - python=3.13
+  - pandas=3.0.0
+  - matplotlib=3.10.8
+  - seaborn=0.13.2
+  - scikit-learn=1.8.0
+  - xgboost=3.2.0
+  - notebook=7.5.3
