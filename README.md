@@ -12,7 +12,7 @@ Covering the Python basics:
 - [Python basics C](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/python-intro/06_python-basics-C.ipynb): Handling data, visualizing data
 - [Python basics C exercise](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/python-intro/07_python-exercise-C.ipynb): Handling data, visualizing data
 
-This Python introduction is part of the Microdegree AI & Society at University of Graz. All materials were initially created by [Jana Lasser](https://github.com/IDeaLab-uni-graz/MD-AI-and-society_technical-aspects).
+This Python introduction is part of the [Microdegree AI & Society](https://www.uni-graz.at/en/studies/microcredential/ai-and-society/) at University of Graz. All materials were initially created by [Jana Lasser](https://github.com/IDeaLab-uni-graz/MD-AI-and-society_technical-aspects).
 
 ## 2. A gentle introduction to machine learning
 
