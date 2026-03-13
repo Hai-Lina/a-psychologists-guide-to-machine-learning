@@ -1,5 +1,5 @@
 # A psychologist's guide to machine learning
-This is an introductory machine learning workshop for the psychological science covering the following topics:
+This is an introductory machine learning workshop for the psychological science covering the following topics. This workshop has taken place on March 16 to 20, 2026 at University of Zurich. Refer [here]([https://github.com/lmcinnes/umap/issues/153](https://github.com/Hai-Lina/a-psychologists-guide-to-machine-learning/blob/zurich-2026-en/schedule.pdf) for the detailed schedule.
 
 ## 1. A gentle introduction to Python
 
