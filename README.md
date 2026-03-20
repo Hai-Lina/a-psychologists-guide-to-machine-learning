@@ -14,6 +14,8 @@ Covering the Python basics:
 
 This Python introduction is part of the [Microdegree AI & Society](https://www.uni-graz.at/en/studies/microcredential/ai-and-society/) at University of Graz. All materials were initially created by [Jana Lasser](https://github.com/IDeaLab-uni-graz/MD-AI-and-society_technical-aspects).
 
+Please find my notes on the clarifying questions from the workshop [here](https://cloud.uni-graz.at/s/ReKozKyRsf5SQRL) (linear regression analytical solution and gradient descent, eigenvectors and eigenvalues in PCA, maximum likelihood estimation in logistic regression, optimization problem in support vector machines, split criteria in decision trees).
+
 ## 2. A gentle introduction to machine learning
 
 Covering basic machine learning concepts and algorithms:
